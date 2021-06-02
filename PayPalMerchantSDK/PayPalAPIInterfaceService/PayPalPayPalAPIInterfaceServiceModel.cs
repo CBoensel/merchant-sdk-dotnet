@@ -478,7 +478,7 @@ namespace PayPal.PayPalAPIInterfaceService.Model
 		[Description("CF")]CF,	
 		[Description("TD")]TD,	
 		[Description("CL")]CL,	
-		[Description("C2")]C,	
+		[Description("C2")]C2,	
 		[Description("CN")]CN,	
 		[Description("CX")]CX,	
 		[Description("CC")]CC,	

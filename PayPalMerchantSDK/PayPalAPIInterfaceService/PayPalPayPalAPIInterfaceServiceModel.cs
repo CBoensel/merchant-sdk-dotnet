@@ -913,6 +913,8 @@ namespace PayPal.PayPalAPIInterfaceService.Model
 		[Description("USD")]USD,	
 		[Description("QAR")]QAR,	
 		[Description("ROL")]ROL,	
+		[Description("RON")]RON,	
+		[Description("RSD")]RSD,	
 		[Description("RUB")]RUB,	
 		[Description("RUR")]RUR,	
 		[Description("RWF")]RWF,	
